@@ -2,11 +2,5 @@
 //Hi my name is John Carlo! My favorite invention is the air conditioning unit.
 //My name is Jane Doe and my favorite color is green and I love Ryan Reynolds. 
 //Hi My name is Arushi and a fun fact about me is that I hate the smell of cheese. 
-<<<<<<< Updated upstream
 // Hi My name is Maria and my favorite artists are Travis Scott, Drake, and Kali Uchis. 
-=======
-//Hi My name is Maria and my favorite artists are Travis Scott, Drake, and Kali Uchis. 
 //Hi my name is Ayan and my fun fact is that I love cats
-
-//Hi My name is Arushi and a fun fact about me is that I hate the smell of cheese. 
->>>>>>> Stashed changes
